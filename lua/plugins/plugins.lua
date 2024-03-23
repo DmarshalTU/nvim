@@ -23,10 +23,7 @@ return {
         "gleam",
         "typescript",
         "python",
-        "go",
-        "js",
-        "html",
-        "css"
+        "go"
       })
     end,
   },
