@@ -23,6 +23,7 @@ return {
         "gleam",
         "typescript",
         "python",
+        "gleam",
         "go"
       })
     end,
