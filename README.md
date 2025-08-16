@@ -102,5 +102,8 @@ NVIM_APPNAME=nvim nvim --headless "+Lazy! sync" +qa
 nvim +"Lazy! sync" +qa
 ```
 
+## Full usage and keybindings
+- See `docs/USAGE.md` for the complete guide covering workflows and shortcuts.
+
 ## License
 MIT
