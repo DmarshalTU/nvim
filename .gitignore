@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Neovim temporary
+*.swp
+*.swo
+*.swn
+Session.vim
+.tags
+.netrwhist
+
+# Logs
+*.log
+
+# Misc
+._*
